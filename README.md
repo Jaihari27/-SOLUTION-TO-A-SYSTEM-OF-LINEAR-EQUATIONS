@@ -18,7 +18,7 @@ End the program
 
 # program to find a solution for linear algebra
 # Developed by Jaihari S
-# ref .no25008769
+# Ref.No 25008769
 ## Output:
 <img width="1324" height="312" alt="{94E059E2-F3B2-463C-9C22-BD6565532E8A}" src="https://github.com/user-attachments/assets/dd693db1-1a19-4384-8231-6797a8e5d3cd" />
 
